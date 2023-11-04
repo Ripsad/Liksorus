@@ -2,8 +2,6 @@
 ![image](https://github.com/Ripsad/Luksorus/assets/82079561/4ceed4e4-def7-4dfe-9285-310f9728e2ef)
 
 
-![image](https://github.com/Ripsad/Luksorus/assets/82079561/40bbcc3b-b2c8-40da-84d0-c706ede1f2e8)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Languages+used+here:)](https://git.io/typing-svg)
 <ul>
   <li>
